@@ -1,6 +1,8 @@
 ## ✨ Hi theren I'm Felpp ✨
 
 * I'm Felps (Filipe) — programming student and Full Stack developer. I have practical experience in web development (front & back) end automation.
+* I love studying and I am always challenging myself to maintain a daily study routine.
+* Student in Information Systems from UNIFASAM College
 
 ## Languages e Tools 🔭
 
