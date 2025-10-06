@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Contatos:
+## Reach Me:
 <div>
 <a href="https://instagram.com/felpp.25" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:filiperamos1236@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-# GitHub Stats ⚡
+## GitHub Stats ⚡
 <div>
 <a href="https://github.com/felpp25">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpp25&layout=compact&langs_count=7&theme=dracula"/>
